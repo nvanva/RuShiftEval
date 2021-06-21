@@ -5,13 +5,12 @@ This repository contains code to reproduce the best results from the paper:
 Nikolay Arefyev, Maksim Fedoseev, Vitaly Protasov, Daniil Homskiy, Adis Davletov, Alexander Panchenko. ["DeepMistake: Which Senses are Hard to Distinguish for a Word­in­Context Model"](http://www.dialog-21.ru/media/5235/arefyevnplusetal133.pdf) in Computational Linguistics and Intellectual Technologies:
 Proceedings of the International Conference “Dialogue 2021”.
 
-DeepMistake was 2nd best system in the RuShiftEval-2021 competition:
-
-Lidia Pivovarova and Andrey Kutuzov. ["RuShiftEval: a shared task on semantic shift detection for Russian"](http://www.dialog-21.ru/media/5296/pivovarovalpluskutuzova151.pdf) in Computational Linguistics and Intellectual Technologies:
-Proceedings of the International Conference “Dialogue 2021”.
+DeepMistake was 2nd best system in the ["RuShiftEval-2021 competition"](http://www.dialog-21.ru/media/5296/pivovarovalpluskutuzova151.pdf)
 
 After the competition we improved the system and outperformed the winner of the competition (see the table below).
 
+# Citation
+If you use any part of the system, please, cite our paper above.
 
 ## Installation
 1. Clone repositories:
