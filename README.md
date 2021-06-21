@@ -1,6 +1,6 @@
 # Lexical Semantic Change Detection for the Russian language by the DeepMistake team.
 
-This repository contains the code to reproduce the results from the paper:
+This repository contains code to reproduce the best results from the paper:
 
 Nikolay Arefyev, Maksim Fedoseev, Vitaly Protasov, Daniil Homskiy, Adis Davletov, Alexander Panchenko. ["DeepMistake: Which Senses are Hard to Distinguish for a Word­in­Context Model"](http://www.dialog-21.ru/media/5235/arefyevnplusetal133.pdf) in Computational Linguistics and Intellectual Technologies:
 Proceedings of the International Conference “Dialogue 2021”,
