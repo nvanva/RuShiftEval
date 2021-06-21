@@ -77,4 +77,3 @@ Results of the LSCD task are presented in the following table. To reproduce them
     </tbody>
 </table>
 
-### Solution for SemEval 2020 Task1
