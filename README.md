@@ -1,4 +1,4 @@
-# Lexical Semantic Change Detection for the Russian language by the DeepMistake team.
+# Lexical Semantic Change Detection (LSCD) for the Russian language by the DeepMistake team.
 
 This repository contains code to reproduce the best results from the paper:
 
@@ -13,28 +13,27 @@ After the competition we improved the system and outperformed the winnger of the
 
 
 ## Installation
-Clone repository from github.com.
+1. Clone repositories:
 ```shell script
 git clone https://github.com/Daniil153/RuShiftEval
 cd RuShiftEval
 git clone https://github.com/davletov-aa/mcl-wic
 ```
 
-### Setup environment
-1. Install requirements
+2. Install requirements
     ```shell script
     pip install -r mcl-wic/requirements.txt
     ```
-### Solution for RuShiftEval 2021
-First, you need to download [word usages and other necessary files](https://zenodo.org/record/4977798#.YMxeNCZRVH4). Also you can use script:
+### The solution for the RuShiftEval-2021 shared task on LSCD.
+1. Download [data](https://zenodo.org/record/4977798#.YMxeNCZRVH4). You can download data from the command line also:
 ```shell script
 bash download_files.sh
 ```
-For downloading weights of 3 best models:
+2. Download models:
 ```shell script
 bash download_models.sh 
 ```
-To reproduce the best result in evaluation you need use:
+3. Solve LSCD:
 ```shell script
 bash eval_best_eval_model.sh
 ```
